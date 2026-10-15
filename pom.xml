@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>com.github.CarolinaSeiko</groupId>
-    <artifactId>api-registro-carolina-568839-m1</artifactId>
+    <artifactId>api-registro-carolina-558839-m1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>api-registro-carolina-568839-m1</name>
     <description>API de registros meteorologicos</description>
